@@ -7,4 +7,12 @@
 - *Code 102 - Intro to Software Development*
 - *Code 201 - Foundations of Software Development*
 - *Code 301 - Intermediate Software Development*
+### Component-Based Architecture
+q1)modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface
+q2)Reusability ,Replaceable ,Not context specific, Extensible , Encapsulated ,Independent 
+q3)Ease of deployment, Reduced cost,Ease of development,Reusable ,Reliability ,System maintenance and evolution,Modification of technical complexity
+### What is Props and How to Use it in React
+q1) is a special keyword in React, which stands for properties and is being used for passing data from one component to another
+q2)define an attribute and its value(data) then pass it to child component(s) by using Props then render the Props Data
+q3)one way from parent to child
 - *Code 401 - Advanced Software Development*
