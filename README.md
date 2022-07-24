@@ -11,5 +11,5 @@
 | code301 | solution |
 | --- | ----------- |
 | read LAB1 | [day1](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day1.md)     |
-| read LAB2 | Text |
+| read LAB2 | [day2](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day2.md) |
 - *Code 401 - Advanced Software Development*
