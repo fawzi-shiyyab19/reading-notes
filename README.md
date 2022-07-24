@@ -15,4 +15,8 @@ q3)Ease of deployment, Reduced cost,Ease of development,Reusable ,Reliability ,S
 q1) is a special keyword in React, which stands for properties and is being used for passing data from one component to another<br>
 q2)define an attribute and its value(data) then pass it to child component(s) by using Props then render the Props Data<br>
 q3)one way from parent to child<br>
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 - *Code 401 - Advanced Software Development*
