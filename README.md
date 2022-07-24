@@ -10,6 +10,6 @@
 
 | code301 | solution |
 | --- | ----------- |
-| read1 | [day1](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day1.md)     |
-| Paragraph | Text |
+| read LAB1 | [day1](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day1.md)     |
+| read LAB2 | Text |
 - *Code 401 - Advanced Software Development*
