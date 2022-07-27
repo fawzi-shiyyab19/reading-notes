@@ -12,3 +12,22 @@ you have to make it dynamic, by using states into each component that needs to c
 
 ## How can you identify where state needs to live?
 based on where it will be used and rendered? sometimes you have to pass this state from its component to another to render it there. Things I want to know more about classes in ES6.
+
+---
+
+## What is a “higher-order function”?
+Functions that operate on other functions, either by taking them as arguments or by returning them
+
+## Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+function greaterThan(n) {
+  return m => m > n;
+}
+let greaterThan10 = greaterThan(10);
+console.log(greaterThan10(11));
+// → true
+
+## Explain how either map or reduce operates, with regards to higher-order functions.
+Map operates on a list of values in order to produce a new list of values, by applying the same computation to each value. Reduce operates on a list of values to collapse or combine those values into a single value
+
+
+
