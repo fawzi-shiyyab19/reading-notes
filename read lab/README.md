@@ -15,5 +15,6 @@
 | read LAB3 | [day3](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day3.md) |
 | read LAB4 | [day4](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day4.md) |
 | read LAB5 | [day5](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day5.md) |
+| read LAB6 | [day6](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/day6.md) |
 
 - *Code 401 - Advanced Software Development*
