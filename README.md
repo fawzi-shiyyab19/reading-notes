@@ -27,7 +27,7 @@
 
 - *Code 401 - Advanced Software Development*
 
-| code301 | solution |
+| code401 | solution |
 | --- | ----------- |
 | read LAB1 | [401day1](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/read%20lab/401day1.md) |
 
