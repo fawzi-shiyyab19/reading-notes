@@ -35,6 +35,7 @@
 | read LAB4 | [401day4](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/401day4.md) |
 | read LAB5 | [401day5](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/401day5.md) |
 | read LAB6 | [401day6](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/401day6.md) |
+| read LAB7 | [401day7](https://github.com/fawzi-shiyyab19/reading-notes/blob/main/401day7.md) |
 
 
 
